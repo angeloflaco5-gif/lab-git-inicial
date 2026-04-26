@@ -17,7 +17,7 @@ class Usuario:
     def resumen(self):
         return f"{self.username} tiene {self.horas} horas"
     
-    # comentrario para merge
+    # comentrario para mergear ramas
     
     def usuario_admin(self):
         return self.username == "admin"
