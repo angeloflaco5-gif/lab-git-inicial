@@ -1,0 +1,26 @@
+[
+    {
+        "username": "admin",
+        "password": "admin123",
+        "edad": 30,
+        "horas": 5
+    },
+    {
+        "username": "angelo",
+        "password": "angelo123",
+        "edad": 23,
+        "horas": 10
+    },
+    {
+        "username": "carlos",
+        "password": "carlos123",
+        "edad": 24,
+        "horas": 12
+    },
+    {
+        "username": "laura",
+        "password": "laura123",
+        "edad": 28,
+        "horas": 1
+    }
+]
